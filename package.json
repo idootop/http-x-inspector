@@ -1,0 +1,22 @@
+{
+  "name": "http-x-inspector",
+  "version": "1.0.0",
+  "description": "HTTP X-Inspector is a diagnostic tool that captures and displays detailed information of raw HTTP requests, enabling developers to quickly identify and resolve issues with headers, methods, payloads, and more.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "@types/react": "18.2.61",
+    "typescript": "^5"
+  }
+}
